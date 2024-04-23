@@ -47,4 +47,7 @@ body {
 .header-table{background-color: rgb(192, 225, 255);
 
 }
+p, td, li{
+  color: black;
+}
 
